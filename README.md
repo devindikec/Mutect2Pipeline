@@ -12,4 +12,7 @@ This code processes whole exome bam files for tumor and normal data into maf fil
 
 Descriptions for each step of the code will be provided below along with a visual for guidance 
 
+Somatic Point Mutation Detection and Annotation Pathway
 ![image](https://user-images.githubusercontent.com/56173874/137376500-f1a8d68b-1eb1-4ea7-95e0-2f1c0cda9cc3.png)
+Image provided at https://redmine.igm.cumc.columbia.edu/projects/poi/wiki/Outline_of_Somatic_Discovery_Pipeline
+
